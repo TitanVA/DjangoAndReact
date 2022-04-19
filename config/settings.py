@@ -40,7 +40,7 @@ INSTALLED_APPS = [
 
     "rest_framework",
 
-    "sores.apps.StoresConfig",
+    "stores.apps.StoresConfig",
 ]
 
 MIDDLEWARE = [
